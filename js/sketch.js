@@ -6,8 +6,8 @@ function setup() {
 }
 
 function draw() {
-    ScaleX = random(20, 30);
-    ScaleY = random(20, 30);
+    ScaleX = random(20, 40);
+    ScaleY = random(20, 40);
     //background(20, 120, 180);
     noStroke();
 if (mouseIsPressed) {
