@@ -1,7 +1,7 @@
     var ScaleX, ScaleY;
     
 function setup() {
-    createCanvas(1280, 1080);
+    createCanvas(1280, 800);
     background(20, 120, 180);
 }
 
